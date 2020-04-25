@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Top Selling Courses
-1. DevOps
-2. Python
-3. Big Data
-4. RPA
+Wel-come to Brideglabz  ${cname}
 </body>
 </html>
